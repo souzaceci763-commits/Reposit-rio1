@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html><center>
+  <body>
+<head>
+ <title>naju e ceci</title> 
+ <hr>
+ <style> 
+  body{background-color: rgb(12, 94, 201);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+ </style>
+ <h1>digite suas informaçoes</h1> 
+<form>
+<label>Nome:</label>
+<input type="text">
+<label>Email:</label>
+<input type="email">
+<label>Senha:</label>
+<input type="password">
+<input type="submit" value="Enviar">
+</form>
+</head>
+  </body>
+       </center>
+</html>
